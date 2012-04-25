@@ -1,0 +1,16 @@
+INDEX VERSION 1.126+C:\Users\hinesen\Documents\Courses\CSSE 376\Lab8-hinesen\.metadata\.plugins\org.eclipse.jdt.core
+3125973198.index
+3000053649.index
+2877109961.index
+3277441100.index
+3585733931.index
+292405174.index
+2331451893.index
+2108329925.index
+3730526690.index
+1789169078.index
+4251467834.index
+3270002986.index
+1835187325.index
+2594609853.index
+1674092712.index
